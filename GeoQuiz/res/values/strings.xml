@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_text">北京是中国最大的城市?</string>
+    <string name="true_button">是</string>
+    <string name="false_button">否</string>
+    <string name="menu_settings">设置</string>
+    <string name="correct_toast">正确</string>
+    <string name="incorrect_toast">不正确</string>
+</resources>

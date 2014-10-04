@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">GeoQuiz</string>
-    <string name="question_text">北京是中国最大的城市?</string>
+    <string name="question_oceans">太平洋为最大的海洋?</string>
+    <string name="question_mideast">苏伊士运河连接红海和印度洋?</string>
+    <string name="question_africa">尼罗河的源头是在埃及?</string>
+    <string name="question_americas">在美洲亚马逊河是最长的河流?</string>
+    <string name="question_china">上海是中国最大的城市?</string>
+
     <string name="true_button">是</string>
     <string name="false_button">否</string>
     <string name="menu_settings">设置</string>
     <string name="correct_toast">正确</string>
+    <string name="back_button">上一个</string>
+    <string name="next_button">下一个</string>
     <string name="incorrect_toast">不正确</string>
+
+    <string name="back_over">已经是第1个了</string>
 </resources>

@@ -15,7 +15,6 @@ import java.util.List;
 
 public class QuizActivity extends Activity {
     private static final String TAG = "QuizActivity";
-    private static final String KEY_INDEX = "index";
 
     private Button mTrueButton;
     private Button mFalseButton;

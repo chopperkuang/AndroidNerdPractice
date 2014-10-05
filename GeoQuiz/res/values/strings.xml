@@ -16,4 +16,10 @@
     <string name="incorrect_toast">不正确</string>
 
     <string name="back_over">已经是第1个了</string>
+
+    <string name="warning_text">你确定需要查看答案？</string>
+    <string name="show_answer_button">查看答案</string>
+    <string name="cheat_button">cheat!</string>
+
+    <string name="judgment_toast">作弊是不对的!</string>
 </resources>
